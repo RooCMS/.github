@@ -40,4 +40,12 @@
 [![GitHub Issues](https://img.shields.io/github/issues/RooCMS/RooCMS)](https://github.com/RooCMS/RooCMS/issues)
 [![GitHub PRs](https://img.shields.io/github/issues-pr/RooCMS/RooCMS)](https://github.com/RooCMS/RooCMS/pulls)
 
+### 💖 Sponsorship
+
+[![Sponsor RooCMS on Open Collective](https://opencollective.com/roocms/badge.svg)](https://opencollective.com/roocms)
+
+Support RooCMS development — help cover costs for CI, hosting, documentation and ongoing core work.  
+Sponsor us on Open Collective: https://opencollective.com/roocms
+
+</div>
 </div>
