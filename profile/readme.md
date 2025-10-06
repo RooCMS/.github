@@ -48,4 +48,3 @@ Support RooCMS development — help cover costs for CI, hosting, documentation a
 Sponsor us on Open Collective: https://opencollective.com/roocms
 
 </div>
-</div>
