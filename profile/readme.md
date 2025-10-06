@@ -42,7 +42,7 @@
 
 ### 💖 Sponsorship
 
-[![Sponsor RooCMS on Open Collective](https://opencollective.com/roocms/badge.svg)](https://opencollective.com/roocms)
+[![Sponsor RooCMS on Open Collective](https://img.shields.io/badge/sponsor-Open%20Collective-FF4785?logo=opencollective&style=flat)](https://opencollective.com/roocms)
 
 Support RooCMS development — help cover costs for CI, hosting, documentation and ongoing core work.  
 Sponsor us on Open Collective: https://opencollective.com/roocms
