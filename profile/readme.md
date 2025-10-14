@@ -1,13 +1,13 @@
 # Welcome to RooCMS 🚀
 
 <div align="center">
-  
+
+💡 RooCMS — lightweight CMS for quick start of web projects
+
 [![GitHub stars](https://img.shields.io/github/stars/RooCMS/RooCMS)](https://github.com/RooCMS/RooCMS/stargazers)
 [![GitHub license](https://img.shields.io/github/license/RooCMS/RooCMS)](https://github.com/RooCMS/RooCMS/blob/master/LICENSE)
 
 </div>
-
-> 💡 RooCMS — lightweight CMS for quick start of web projects
 
 ---
 
